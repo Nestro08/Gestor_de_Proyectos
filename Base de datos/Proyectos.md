@@ -9,3 +9,7 @@
 ### **Fecha_fin** -> `date` `not null` ==`foreing key` ==
 
 ### **Nombre_user** -> `varchar (100)` `not null` 
+
+---
+**Codigo de la tabla**
+
