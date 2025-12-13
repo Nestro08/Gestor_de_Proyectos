@@ -3,6 +3,9 @@
 
 ### **Jefe_proyectos**   ->    `varchar (100)` `not null`
 
-**Descripcion** ->  `varchar (100)` 
+### **Descripcion** ->  `varchar (100)`
+### **Fecha_inicio** -> `date` `not null`
 
-### **Fecha_inicio** -> 
+### **Fecha_fin** -> `date` `not null` `foreing key` 
+
+### **Nombre_user** -> `varchar (100)` `not null` 
