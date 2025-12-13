@@ -1,0 +1,8 @@
+### **ID** -> `autoincrement` ==`primary key`== 
+
+### **Nombre** -> `varchar (100)` `not null`
+
+### **archivo** -> `file`
+
+### **Fecha subido** -> `date`
+
