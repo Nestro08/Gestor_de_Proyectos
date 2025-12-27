@@ -1,0 +1,1 @@
+## Planificar todas las funcionalidades de la aplicación
