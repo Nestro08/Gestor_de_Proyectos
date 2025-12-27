@@ -5,3 +5,5 @@
 # Pantalla de log in
 
 ![[Pasted image 20251227184433.png]]
+Color de fondo #F5F0E6
+Color de los EditText #B2BFA8
