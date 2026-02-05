@@ -1,0 +1,1 @@
+Añadir algún método de encriptación para que el control de contraseñas sea seguro y poder evitar filtraciones.

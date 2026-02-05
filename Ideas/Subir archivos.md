@@ -1,0 +1,1 @@
+Poder subir archivos a un blob storage de Azure de una forma sencilla mediante un botón. 
