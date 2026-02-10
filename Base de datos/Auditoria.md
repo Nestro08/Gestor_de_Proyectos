@@ -2,11 +2,17 @@
 
 ### **Tipo** -> lista de 3 opciones.
 
-### **nombre_proyecto** -> `varchar (100)` `not null`
+### Entidad
 
-### **fecha_modificacion** -> `date` `not null`
+### EntidadId
 
-### **name_user** -> `varchar (100)` `not null`
+### NombreProyecto
+
+### FechaModificacion
+
+### Name_User
+
+### Detalle
 
 
 ---
