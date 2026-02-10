@@ -7,11 +7,11 @@
 ### FechaFin -> `date` `not null` 
 ### Estado -> `varchar` `not null`
 ### Calificacion -> `tinyint` `null`
-### BajadaCalificacion
-### Auditoria
-### PalabrasClave
-### EnCooperacion
-### BlobNombre
-### BlobURL
+### BajadaCalificacion -> `tinyint` `null`
+### Auditoria -> `nvarchar` `null`
+### PalabrasClave -> `nvarchar` `null`
+### EnCooperacion -> `bit`  `not null`
+### BlobNombre -> `nvarchar` `null`
+### BlobURL -> `nvarchar` `null`
 
 ---

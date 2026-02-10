@@ -1,12 +1,11 @@
 
-### Id
+### Id -> `PK` `int` `not null`
 
-### Nombre
+### Nombre -> `varchar` `not null`
 
-### Email
+### Email -> `varchar` `not null`
+### Activo -> `bit` `not null`
 
-### Activo
-
-### FechaAlta
+### FechaAlta -> `date` `not null`
 
 ---
