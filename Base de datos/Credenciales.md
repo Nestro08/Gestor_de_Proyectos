@@ -3,3 +3,9 @@
 ### Login
 
 ### PaswordHash
+
+### Salt 
+
+### Interaciones
+
+---
