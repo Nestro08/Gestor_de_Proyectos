@@ -1,12 +1,12 @@
-### Id
-### GrupoI
-### NombreProyecto
-### JefeUsuarioId
-### Descripcion
-### FechaInicio
-### FechaFin
-### Estado
-### Calificacion
+### Id -> `PK`  `int`  `not null`
+### GrupoId -> `int` `not null`
+### NombreProyecto -> `varchar` `not null`
+### JefeUsuarioId -> `int` `not null`
+### Descripcion -> `varchar` `null`
+### FechaInicio -> `date` `not null` 
+### FechaFin -> `date` `not null` 
+### Estado -> `varchar` `not null`
+### Calificacion -> `tinyint` `null`
 ### BajadaCalificacion
 ### Auditoria
 ### PalabrasClave

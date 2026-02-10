@@ -1,5 +1,5 @@
-### Id -> `PK` ``
+### Id -> `PK` `int` `not null` 
 
-### Nombre
+### Nombre -> `varchar` `not null`
 
 ---

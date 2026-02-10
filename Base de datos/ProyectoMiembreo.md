@@ -1,10 +1,10 @@
 
-### Proyectoid
+### Proyectoid -> `PK`  `int`  `not null`
 
-### UsuarioId
+### UsuarioId ->  `PK`  `int`  `not null`
 
-### Rol 
+### Rol -> `varchar` `not null`
 
-### FechaAsignacion
+### FechaAsignacion -> `date` `not null`
 
 ---
