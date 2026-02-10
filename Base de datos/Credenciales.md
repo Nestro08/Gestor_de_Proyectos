@@ -1,11 +1,11 @@
-### UsuarioId
+### UsuarioId -> `PK` `int` `not null`
 
-### Login
+### Login -> `nvarchar` `not null`
 
-### PaswordHash
+### PaswordHash -> `varbinary` `not null`
 
-### Salt 
+### Salt -> `varbinary` `not null`
 
-### Interaciones
+### Interaciones -> `int` `not null`
 
 ---

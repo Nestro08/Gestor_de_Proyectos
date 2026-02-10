@@ -1,24 +1,19 @@
-### **ID** -> `autoincrement` `not null`
+### **ID** -> `PK` `int` `not null`
 
-### **Tipo** -> lista de 3 opciones.
+### **Tipo** -> `varchar` `not null`
 
-### Entidad
+### Entidad -> `varchar` `not null`
 
-### EntidadId
+### EntidadId -> `int` `null`
 
-### NombreProyecto
+### NombreProyecto -> `varchar` `null`
 
-### FechaModificacion
+### FechaModificacion -> `datetime2` `not null`
 
-### Name_User
+### Name_User -> `varchar` `not null`
 
-### Detalle
-
-
----
-
-# Esto se creara/utilizara mediante un trigger o un procedure. 
+### Detalle -> `nvachar` `null` 
 
 
 ---
-**Codigo de la tabla**
+
